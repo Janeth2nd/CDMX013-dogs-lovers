@@ -1,0 +1,15 @@
+.img-dog {
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    text-align: center;
+    color: azure;
+    background-color: black;
+ 
+}
